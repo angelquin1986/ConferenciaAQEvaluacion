@@ -6,6 +6,7 @@ test Conferencia FISA
     - MAVEN
     - El archivo a leer es  conferenciasInput.txt el cual  se encuentra en la raiz del protecto
     - El ejecutable es com.ec.aqsoft.conferencia.Main.java
+    - Intelij idea
     
 
 CONFERENCE TRACK MANAGEMENT
